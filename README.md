@@ -1,5 +1,5 @@
 ---
-name: "Activity 10.3 - Practical: Threads and REST API in JafaFX"
+name: "Activity 11.3 - Practical: Threads and REST API in JafaFX"
 ---
 The practical activities prepared for this week are listed below. We recommend you attempt, or at least read through some of them before coming to class. This will help you to get the most out of the practical sessions.
 
@@ -9,7 +9,7 @@ Don't be afraid to ask questions in class if you get stuck, or even if you just 
 
 ---
 
-# Practical 10 - Threads and REST API in JafaFX
+# Practical 11 - Threads and REST API in JafaFX
 
 Before we begin, you will need to clone the repository from https://github.com/cab302-qut/threads-prac.
 
